@@ -1,0 +1,30 @@
+/* html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+}
+ */
+.whole_box {
+	height: 100vh;
+	border: 1px solid #eee;
+	background-color: #EBEEF5;
+}
+
+.main_box{
+	height: 100%;
+}
+
+.aside_box{
+	background-color: #FFFFFF;
+	
+}
+
+.router_box{
+	background-color: #F2F6FC;
+}
+
+.header{
+	
+}
